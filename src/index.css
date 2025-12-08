@@ -5,6 +5,9 @@
   text-align:center;
   margin: 20px;
   padding: 20px;
-  max-width: 250px;
+  max-width: 300px;
   font-family: 'Times New Roman', Times, serif;
+}
+.Card-img{
+  max-width: 270px;
 }
